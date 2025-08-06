@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Rajprateem 👋
 
-<!--
-**thatg33kyguy/thatg33kyguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack web developer passionate about building real-world projects using the **MERN stack**, Python, and modern web technologies.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Interests
+- Full-stack projects
+- Python automation
+- Analytics dashboards (Power BI, Python)
+- Open source contribution
+
+### 📫 Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOURPROFILE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=github)](https://YOURPORTFOLIO.com)

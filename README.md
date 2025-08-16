@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rajprateem Nath</h1>
-<h3 align="center">A passionate Full-Stack Developer & Competitive Programmer from India</h3>
+<h3 align="center">Web Developer | Competitive Programmer | Tech Enthusiast</h3>
 
 ---
 

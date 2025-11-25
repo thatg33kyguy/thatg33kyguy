@@ -3,15 +3,15 @@
   <img src="assets/intro.gif" alt="banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Rajprateem Nath</h1>
+<h1 align="center">Hi there, I'm Rajprateem Nath</h1>
 <h3 align="center">Web Developer | Competitive Programmer | Tech Enthusiast</h3>
 
 ---
 
 ### 🔭 What I'm Currently Doing
-- 🚀 Building **MERN + Python projects**  
-- 📊 Exploring **Analytics dashboards with Power BI & Python**  
-- 💡 Learning **Machine Learning & Cloud Deployment**  
+- 🚀 Building **MERN + AI/ML projects**  
+- 📊 Exploring GenAI and Machine Learning**  
+- 💡 Learning System Design & Cloud Deployment**  
 - 🏆 Practicing **Competitive Programming on Codeforces**  
 
 ---

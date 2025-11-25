@@ -9,10 +9,10 @@
 ---
 
 ### 🔭 What I'm Currently Doing
-- 🚀 Building **MERN + AI/ML projects**  
-- 📊 Exploring GenAI and Machine Learning**  
-- 💡 Learning System Design & Cloud Deployment**  
-- 🏆 Practicing **Competitive Programming on Codeforces**  
+- 🚀 Building **MERN + AI/ML projects
+- 📊 Exploring GenAI and Machine Learning
+- 💡 Learning System Design & Cloud Deployment
+- 🏆 Practicing **Competitive Programming on Codeforces
 
 ---
 

@@ -4,12 +4,12 @@
 </p>
 
 <h1 align="center">Hi there, I'm Rajprateem Nath</h1>
-<h3 align="center">Web Developer | Competitive Programmer | Tech Enthusiast</h3>
+<h3 align="center">Web Developer | Competitive Programmer | Software Engineer</h3>
 
 ---
 
 ### 🔭 What I'm Currently Doing
-- 🚀 Building **MERN + AI/ML projects
+- 🚀 Building MERN + AI/ML projects
 - 📊 Exploring GenAI and Machine Learning
 - 💡 Learning System Design & Cloud Deployment
 - 🏆 Practicing **Competitive Programming on Codeforces
@@ -43,13 +43,6 @@
 
 ---
 
-### 🌟 Featured Projects
-- 🌤️ [Weather Alert App](https://github.com/thatg33kyguy/weather-app-new) – Real-time weather monitoring & alert system  
-- 📊 [FMCG Data Analysis Dashboard](https://github.com/thatg33kyguy/FMCG-data-analysis-dashboard) – Power BI business insights  
-- 📈 [Python Sales Analytics](https://github.com/thatg33kyguy/PythonSalesAnalytics) – Data cleaning & EDA with Python  
-- 🤖 [InterviewMate_AI](https://github.com/thatg33kyguy/InterviewMate_AI) – AI-powered interview prep tool  
-
----
 
 ### 📅 Contributions
 <p align="center">
